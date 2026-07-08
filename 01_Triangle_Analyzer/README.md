@@ -1,6 +1,6 @@
 # △ Triangle Analyzer 
 
-Triangle Analyzer is a simple Python program that accepts the lengths of three sides, verifies whether they form a valid triangle, and calculates its basic geometric properties in order to determine its type.
+A simple Python program that accepts the lengths of three sides, verifies whether they form a valid triangle, and calculates its basic geometric properties in order to determine its type.
 
 
 ## 🔎 Preview
