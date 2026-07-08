@@ -40,4 +40,4 @@ if x < y + z:
     elif x**2 < y**2 + z**2:
         print("The triangle is acute")
 else:
-    print("The triangle inequality is not satisfied")
+    print("\nThe triangle inequality is not satisfied")
