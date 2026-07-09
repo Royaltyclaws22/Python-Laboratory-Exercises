@@ -2,8 +2,9 @@
 
 A simple command-line note manager written in Python which allows users to create, save, and view notes organized by month and year.
 
-## 🔎 Preview
 
+## 🔎 Preview
+<img width="1280" height="720" alt="THIS" src="https://github.com/user-attachments/assets/2d193662-d6ec-47a7-a7b0-13084dee7e79" />
 
 
 ## ⚙️ Features
