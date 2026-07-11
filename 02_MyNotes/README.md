@@ -50,7 +50,7 @@ Select:
 ```text
 1. View notes
 ```
-by typing the number '1'.
+by typing the number `1`.
 
 Enter the month in the format:
 
@@ -74,7 +74,7 @@ Select:
 ```text
 2. New note
 ```
-by typing the number '2'.
+by typing the number `2`.
 
 Enter a date using the format:
 
@@ -99,4 +99,4 @@ Select:
 ```text
 3. Exit
 ```
-by typing the number '3' when you are done. Your notes are saved automatically into monthly `.txt` files that can be found in the same folder as the `MyNotes.py` file.
+by typing the number `3` when you are done. Your notes are saved automatically into monthly `.txt` files that can be found in the same folder as the `MyNotes.py` file.
