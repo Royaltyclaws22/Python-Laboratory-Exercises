@@ -4,6 +4,7 @@
 
 
 ## 🔎 Preview
+<img width="1280" height="680" alt="StudentManager" src="https://github.com/user-attachments/assets/13681202-f831-4919-a68f-934a18f89836" />
 
 
 
