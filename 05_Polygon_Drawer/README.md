@@ -4,7 +4,7 @@ A simple Tkinter-based drawing application that allows users to create and fill 
 
 
 ## 🔎 Preview
-
+<img width="1280" height="680" alt="Polygon_Drawer" src="https://github.com/user-attachments/assets/6682a38f-47f1-4e60-9185-ffe8ae66fa3b" />
 
 
 ## ⚙️ Features
