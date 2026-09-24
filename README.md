@@ -1,6 +1,6 @@
 # 🐍 Python Laboratory Exercises
 
-A collection of Python laboratory exercises and programming assignments completed as part of my university coursework.
+A collection of Python programming projects completed as part of my university coursework.
 
 
 ## 🗃️ Repository Structure
